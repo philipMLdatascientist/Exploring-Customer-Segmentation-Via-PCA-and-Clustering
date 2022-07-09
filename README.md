@@ -10,7 +10,7 @@ I wanted to see what would happen if I used principal component analysis to assi
 
 I changed all binary categorical features to 0/1 and removed the remaining 8 categorical columns. Due to Euclidean distance, I cannot perform clustering on nominal data, however, I can use PCA to reduce data dimensionality, extract the data signal, and create more meaningful orthogonal features which should enhance clustering via noise reduction.
 
-I created a scree plot to determine how many principal components should be included in my analysis. The elbow was noted at 5, possibly 6. Therefore, I created a chart that showed 50% of the variability is explained by 5 components. However, to reach 80% (rule of thumb) required 15 features! This highlights the curse of dimensionality. I created a 3d scatter plot of the first 3 components and arbitrarily chose to color by the "Churn Value" feature. Two distinct clusters were noted.
+I normalized the data and created a scree plot to determine how many principal components should be included in my analysis. The elbow was noted at 5, possibly 6. Therefore, I created a chart that showed 50% of the variability is explained by 5 components. However, to reach 80% (rule of thumb) required 15 features! This highlights the curse of dimensionality. I created a 3d scatter plot of the first 3 components and arbitrarily chose to color by the "Churn Value" feature. Two distinct clusters were noted.
 
 I also created a loading table to measure how each numeric feature loaded during the principal component analysis.
 
