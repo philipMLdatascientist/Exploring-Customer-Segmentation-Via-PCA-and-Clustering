@@ -16,9 +16,7 @@ I also created a loading table to measure how each numeric feature loaded during
 
 I fitted the K-Means clustering model onto the previously calculated PCA scores. An inertia scree plot elbow identified a 3-cluster solution and seaborn was employed for the analysis and interpretation.
 
-## Summary of Findings
-
-## Analysis and Interpretation of K-mean clustering of PCA scores:
+## Summary of Analysis and Interpretation of K-mean clustering of PCA scores:
 
 ### Blue Cluster(0): Most Loyal Customer Segment, Highest Utilizer of Services, High Referral Rate, Minimal Customer Service Requirements
 - This customer segment is the most likely to have the longest tenure and refer another customer. 
