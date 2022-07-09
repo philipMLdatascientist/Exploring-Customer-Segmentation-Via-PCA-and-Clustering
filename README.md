@@ -22,7 +22,7 @@ I fitted the K-Means clustering model onto the previously calculated PCA scores.
 - This customer segment is the most likely to have the longest tenure and refer another customer. 
 - This customer segment is the most likely to have multiple phone lines, online security, online backup, online protection plan, device protection plan, premium tech support, streaming services.
 - This customer segment is most likely to make up the under 30 portion of users, most likely to be married, if they have dependents then it is likely that they have 1, 2, 3 dependents.
-- This customer segment is likely to have a customer service request or product service issue reported.
+- This customer segment is likely to have miniAL customer service requestS or product service issueS reported.
 - This customer segment isn't likely to churn.
 ### Business Recommendations:
 - This customer segment is the most likely to refer another customer. Therefore, they should be better incentivized due to do so - to further increase market share.
