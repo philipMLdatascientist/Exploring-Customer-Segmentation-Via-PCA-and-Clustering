@@ -1,5 +1,9 @@
 # Exploring Customer Segmentation Via PCA and Clustering
 
+Link to Jupyter notebook below:
+
+https://github.com/philipMLdatascientist/Exploring-Customer-Segmentation-Via-PCA-and-Clustering/blob/main/Exploring%20Customer%20Segmentation%20Via%20PCA%20and%20Clustering.ipynb
+
 ## Project Description
 
 In this activity, I will profile customer groups for a large telecommunications company.  The data provided contains information on customers purchasing and useage behavior with the telecom products.  My goal is to use PCA and clustering to segment these customers into meaningful groups, and report my findings.
